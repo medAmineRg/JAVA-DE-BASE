@@ -20,8 +20,4 @@ public class Salle {
         this.id = id;
         this.nom = nom;
     }
-    /**/
-    public static boolean equals(long id1, long id2) {
-        return id1 == id2;
-    }
 }
